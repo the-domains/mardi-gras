@@ -1,11 +1,5 @@
-name: Mardi' Gras
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/19eb8899-5220-40a9-93db-b2f5d1e81cfc.png
-layout_spectrum: 0.6962282819111859
-typography_spectrum: 0.853897135325772
-opengraph:
-  type: ''
-  appId: ''
+layout_spectrum: 0.8378868818732144
+typography_spectrum: 0.41894561612121023
 color:
   brandColors:
     - '#88A825'
@@ -13,10 +7,18 @@ color:
     - '#911146'
     - '#CF4A30'
     - '#ED8C2B'
-  brandStrength: 0.8493158609879268
-  lightness: 0.4118417002024627
-  saturation: 0.7564680686561704
-  rhythmicContrast: 0.7496070399291186
+  brandStrength: 0.22820802182355657
+  lightness: 0.11008900260257691
+  saturation: 0.10737240385162727
+  rhythmicContrast: 0.12787792077961166
+coverPrefs:
+  filter: false
+name: Mardi' Gras
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/19eb8899-5220-40a9-93db-b2f5d1e81cfc.png
+opengraph:
+  type: ''
+  appId: ''
 purpose:
   - type: contact
     label: Contact Mardi' Gras
