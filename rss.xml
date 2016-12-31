@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mardi Gras]]></title>
+        <description><![CDATA[Mardi Gras]]></description>
+        <link>https://thegrid.ai/mardi-gras/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 31 Dec 2016 08:11:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mardi-gras/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sat, 31 Dec 2016 08:11:42 GMT</pubDate>
+        <item>
+            <title><![CDATA[Mardi’ Gras]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/671cdfe5-4075-4adf-b2f0-02e4ef808f48.png">]]></description>
+            <link>https://thegrid.ai/mardi-gras/mardi-gras/index.html</link>
+            <guid isPermaLink="false">064cef9b-74d6-4a8f-83dd-7e0299042191</guid>
+            <pubDate>Fri, 30 Dec 2016 04:47:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Electronic]]></title>
+            <description><![CDATA[<article><h1>Electronic</h1><p>FREE OLD TOWNE DELIVERY</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c0f62b8-5401-48ad-8e4d-bddf3991403a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mardi-gras/electronic/index.html</link>
+            <guid isPermaLink="false">b6fe316b-afb3-4621-b1f8-b869a67b9eb4</guid>
+            <pubDate>Sat, 31 Dec 2016 08:11:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
