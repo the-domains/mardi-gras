@@ -1,0 +1,33 @@
+name: Mardi' Gras
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/19eb8899-5220-40a9-93db-b2f5d1e81cfc.png
+layout_spectrum: 0.6962282819111859
+typography_spectrum: 0.853897135325772
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#88A825'
+    - '#35203B'
+    - '#911146'
+    - '#CF4A30'
+    - '#ED8C2B'
+  brandStrength: 0.8493158609879268
+  lightness: 0.4118417002024627
+  saturation: 0.7564680686561704
+  rhythmicContrast: 0.7496070399291186
+purpose:
+  - type: contact
+    label: Contact Mardi' Gras
+    url: 'mailto:cdrandassociates@yahoo.com'
+title: ''
+description: Southern Creole Restaurant & Lounge
+author:
+  name: Samson Slater
+  url: 'http//:thegrid.ai/bam@bam-com'
+  email: dlpshows@gmail.com
+content_rating:
+  adult: false
+content: []
+github: true
