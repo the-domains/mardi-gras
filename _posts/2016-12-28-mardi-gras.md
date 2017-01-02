@@ -1,7 +1,7 @@
 ---
-title: Electronic
-datePublished: '2017-01-02T04:32:07.515Z'
-dateModified: '2017-01-02T04:32:01.520Z'
+title: ''
+datePublished: '2017-01-02T04:35:12.688Z'
+dateModified: '2017-01-02T04:35:10.004Z'
 publisher: {}
 author: []
 inFeed: true
@@ -16,7 +16,9 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fab995ca-5dff-4e1d-8e45-a8ac66b34139.jpg" /><h1>Electronic</h1><p>Investment Portfolio</p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/702b6fc2-a549-4d6d-aff2-f98d3d5d70db.png)
+
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fab995ca-5dff-4e1d-8e45-a8ac66b34139.jpg" /><h1>Mardi Gras</h1><p>Investment Portfolio</p></article>
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3d74f60-a89c-4980-aa6b-04515a00315b.jpg)
 
