@@ -1,12 +1,12 @@
 ---
 title: ''
-datePublished: '2017-01-02T04:52:58.471Z'
-dateModified: '2017-01-02T04:51:33.638Z'
+datePublished: '2017-01-12T01:18:33.404Z'
+dateModified: '2017-01-02T22:45:19.846Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
-description: 'A new kinda old town Pasadena, CA. fun.'
+description: Hi and ft
 via: {}
 starred: true
 datePublishedOriginal: '2016-12-28T21:02:48.141Z'
@@ -16,6 +16,7 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
+Hi and ft
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/702b6fc2-a549-4d6d-aff2-f98d3d5d70db.png)
 
 <article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fab995ca-5dff-4e1d-8e45-a8ac66b34139.jpg" /><h1>Mardi Gras</h1><p>Investment Portfolio</p></article>
